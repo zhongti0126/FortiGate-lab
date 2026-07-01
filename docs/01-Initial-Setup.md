@@ -67,3 +67,5 @@ Default username:
 admin
 
 After logging in, change the default password immediately.
+
+<img width="262" height="146" alt="image" src="https://github.com/user-attachments/assets/04b81024-5d1e-41f5-b06d-724955b0922d" />

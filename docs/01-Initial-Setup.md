@@ -17,6 +17,7 @@ Type:
 cmd
 
 Press Enter.
+
 <img width="284" height="166" alt="image" src="https://github.com/user-attachments/assets/18a88f79-774d-4850-9f2d-fab22df6b4a5" />
 
 ---
@@ -28,8 +29,6 @@ In Command Prompt, type:
 ipconfig
 
 Press Enter.
-<img width="482" height="100" alt="image" src="https://github.com/user-attachments/assets/c70eaf2b-ebb6-4e8a-b190-9414aea9fbe0" />
-
 ---
 
 ## Step 3: Find the Default Gateway

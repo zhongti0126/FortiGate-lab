@@ -19,7 +19,7 @@ Examples include:
 
 ---
 
-# LAN
+# LAN (Your private network)
 
 LAN (Local Area Network)
 
@@ -45,7 +45,7 @@ FortiGate LAN1
 
 ---
 
-# WAN
+# WAN (The connection to the Internet)
 
 WAN (Wide Area Network)
 

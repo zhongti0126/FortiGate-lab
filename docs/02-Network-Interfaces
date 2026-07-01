@@ -1,0 +1,136 @@
+# 02 - Network Interfaces
+
+## Objective
+
+Understand the purpose of each network interface on a FortiGate firewall and learn how to configure them.
+
+---
+
+# What is an Interface?
+
+An interface is a connection point that allows the FortiGate firewall to communicate with other devices.
+
+Examples include:
+
+- LAN
+- WAN
+- DMZ
+- VLAN
+
+---
+
+# LAN
+
+LAN (Local Area Network)
+
+The LAN interface connects internal devices
+
+Examples:
+
+- PC
+- Laptop
+- Printer
+- Access Point
+- Switch
+
+Example:
+
+PC
+↓
+
+Switch
+↓
+
+FortiGate LAN1
+
+---
+
+# WAN
+
+WAN (Wide Area Network)
+
+The WAN interface connects the FortiGate to the Internet through an ISP modem
+
+Example:
+
+Internet
+
+↓
+
+ISP Modem
+
+↓
+
+FortiGate WAN
+
+---
+
+# DMZ
+
+DMZ (Demilitarized Zone)
+
+A DMZ is a separate network used for public servers.
+
+Example:
+
+Web Server
+
+Mail Server
+
+DNS Server
+
+These servers are isolated from the internal LAN.
+
+---
+
+# Interface Status
+
+A network interface can be:
+
+- Up
+- Down
+
+When the cable is connected correctly, the interface should display "Up".
+
+---
+
+# How to View Interfaces
+
+Navigate to:
+
+Network
+
+↓
+
+Interfaces
+
+You can view:
+
+- Interface Name
+- IP Address
+- Status
+- Administrative Access
+
+---
+
+# Administrative Access
+
+Common options include:
+
+- HTTPS
+- HTTP
+- PING
+- SSH
+
+These determine how administrators can access the FortiGate.
+
+---
+
+# Verification
+
+Verify that:
+
+- LAN interface is Up.
+- WAN interface is connected.
+- Correct IP address is assigned.
+- HTTPS access is enabled.
